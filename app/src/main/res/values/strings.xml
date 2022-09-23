@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Controle de Gastos</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="lembrar_senha">Lembrar senha</string>
+    <string name="login">Login</string>
+    <string name="criar_conta">Criar conta</string>
+    <string name="nao_tem_conta">Não tem conta?</string>
 </resources>
