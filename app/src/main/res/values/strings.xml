@@ -6,4 +6,7 @@
     <string name="login">Login</string>
     <string name="criar_conta">Criar conta</string>
     <string name="nao_tem_conta">Não tem conta?</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="cadastrar">Cadastrar-se</string>
 </resources>
